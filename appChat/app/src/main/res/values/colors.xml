@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FAE100</color>
+    <color name="colorPrimaryDark">#ebebeb</color>
+    <color name="colorAccent">#fae100</color>
+    <color name="colorBlack">#000000</color>
+    <color name="kakaoTalk">#fae100</color>
+    <color name="mauchinh">#dba117</color>
+    <color name="ebebebe">#ebebeb</color>
+</resources>
